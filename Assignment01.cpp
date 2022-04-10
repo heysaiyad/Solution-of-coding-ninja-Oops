@@ -1,4 +1,4 @@
-// Find post increment and post increament in given number
+// Find post increment and post increament in given number ?
 #include<iostream>
 using namespace std;
 int main(){
